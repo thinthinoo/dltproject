@@ -1,0 +1,13 @@
+body{
+    font-family: "Montserrat",sans-serif;
+}
+
+/* start header */
+
+header{
+    height: 100vh; /*= viewport height */
+    background:url(../assets/images/header.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
